@@ -23,7 +23,7 @@ const Main = () => {
   return (
     <div className="main">
       <div className="nav">
-        <p>React Bot</p>
+        <p>Autobot</p>
         <img src={assets.user_icon} alt=""></img>
       </div>
       <div className="main-container">
@@ -81,8 +81,7 @@ const Main = () => {
             </div>
           </div>
           <p className="bottom-info">
-            React Bot may have accurate info. It is still on training. (Voice
-            Input only works on Google Chrome)
+            Autobot may have accurate info. It is still on training. (Works only on Google Chrome)
           </p>
         </div>
       </div>
